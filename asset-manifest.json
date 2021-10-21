@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TZUrbanSmart/static/css/main.33e19ae5.chunk.css",
+    "main.js": "/TZUrbanSmart/static/js/main.b0b1d256.chunk.js",
+    "main.js.map": "/TZUrbanSmart/static/js/main.b0b1d256.chunk.js.map",
+    "runtime-main.js": "/TZUrbanSmart/static/js/runtime-main.28f107c0.js",
+    "runtime-main.js.map": "/TZUrbanSmart/static/js/runtime-main.28f107c0.js.map",
+    "static/js/2.b88abffe.chunk.js": "/TZUrbanSmart/static/js/2.b88abffe.chunk.js",
+    "static/js/2.b88abffe.chunk.js.map": "/TZUrbanSmart/static/js/2.b88abffe.chunk.js.map",
+    "index.html": "/TZUrbanSmart/index.html",
+    "static/css/main.33e19ae5.chunk.css.map": "/TZUrbanSmart/static/css/main.33e19ae5.chunk.css.map",
+    "static/js/2.b88abffe.chunk.js.LICENSE.txt": "/TZUrbanSmart/static/js/2.b88abffe.chunk.js.LICENSE.txt",
+    "static/media/LoginPage.module.css": "/TZUrbanSmart/static/media/back.6bd8f5ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f107c0.js",
+    "static/js/2.b88abffe.chunk.js",
+    "static/css/main.33e19ae5.chunk.css",
+    "static/js/main.b0b1d256.chunk.js"
+  ]
+}
