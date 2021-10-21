@@ -1,0 +1,82 @@
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/images/back.png") 50% / cover;
+}
+.wrapper__content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(20px);
+}
+.auth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  background: #ffffff;
+  box-shadow: 0px 4px 33px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+  width: 410px;
+  height: 382px;
+}
+
+.input__content_login {
+  height: 100px;
+}
+.input__content_password {
+  height: 108px;
+}
+.input__content_login,
+.input__content_password {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.input__password,
+.input__login {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #c9cacc;
+  box-sizing: border-box;
+  border-radius: 4px;
+  min-height: 50px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 18px;
+}
+.input__title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 19px;
+  color: #424242;
+  margin-bottom: 7px;
+}
+.input__content_login {
+  padding-bottom: 24px;
+}
+.input__content_password {
+  padding-bottom: 32px;
+}
+.input__login[type="text"],
+.input__password[type="password"] {
+  font-size: 20px;
+}
+.error {
+  font-size: 12px;
+  color: rgb(255, 0, 0);
+}
+.btn {
+  cursor: pointer;
+  height: 50px;
+  width: 100%;
+  font-size: 16px;
+}
